@@ -1,4 +1,25 @@
 # ewc-news
 
+- https://ianchen0419.github.io/ewc-news/01-president.html
+- https://ianchen0419.github.io/ewc-news/02-message.html
+- https://ianchen0419.github.io/ewc-news/03-petDay.html
+- https://ianchen0419.github.io/ewc-news/04-club.html
 - https://ianchen0419.github.io/ewc-news/13-0709GameMaster5.html
 - https://ianchen0419.github.io/ewc-news/14-0716.html
+- https://ianchen0419.github.io/ewc-news/15-0723.html
+- https://ianchen0419.github.io/ewc-news/16-0730.html
+- https://ianchen0419.github.io/ewc-news/17-0806.html
+- https://ianchen0419.github.io/ewc-news/18-0812.html
+- https://ianchen0419.github.io/ewc-news/19-0819.html
+- https://ianchen0419.github.io/ewc-news/20-0826.html
+- https://ianchen0419.github.io/ewc-news/21-0902.html
+- https://ianchen0419.github.io/ewc-news/23-0916.html
+- https://ianchen0419.github.io/ewc-news/24-0923.html
+- https://ianchen0419.github.io/ewc-news/25-0930.html
+- https://ianchen0419.github.io/ewc-news/26-1006.html
+- https://ianchen0419.github.io/ewc-news/27-1125.html
+- https://ianchen0419.github.io/ewc-news/28-1202.html
+- https://ianchen0419.github.io/ewc-news/29-1209.html
+- https://ianchen0419.github.io/ewc-news/30-1217.html
+- https://ianchen0419.github.io/ewc-news/31-1223.html
+- https://ianchen0419.github.io/ewc-news/32-1229.html
